@@ -1,4 +1,5 @@
 import pyperclip
+#melt bulk of keywords into strings with specifyed length
 
 raw = pyperclip.paste().lower()
 raw = raw.replace(",", " ")
