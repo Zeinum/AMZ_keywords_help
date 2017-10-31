@@ -1,0 +1,238 @@
+Campaign Name	Ad Group Name	Customer Search Term	Keyword	Match Type	First Day of Impression	Last Day of Impression	Impressions	Clicks	CTR	Total Spend	Average CPC	ACoS	Currency	Orders placed within 1 week of a click	Product Sales within 1 week of a click	Conversion Rate within 1 week of a click	Same SKU units Ordered within 1 week of click	Other SKU units Ordered within 1 week of click	Same SKU units Product Sales within 1 week of click	Other SKU units Product Sales within 1 week of click
+Autoall	All	toddler science toys	*	BROAD	09/04/2017	10/09/2017	14	1	7.143%	0.82	0.82	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	3yr old boy toys	*	BROAD	09/05/2017	10/05/2017	69	1	1.449%	1.00	1.00	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	girls dog purse	*	BROAD	09/05/2017	10/03/2017	48	1	2.083%	0.53	0.53	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	toddler girl shirt	*	BROAD	09/05/2017	10/03/2017	19	1	5.263%	1.19	1.19	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	shark game	*	BROAD	09/04/2017	10/02/2017	157	1	0.637%	0.38	0.38	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	telescopes for kids	*	BROAD	09/04/2017	10/22/2017	141	1	0.709%	0.42	0.42	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	3 year old girl purse	*	BROAD	10/22/2017	10/23/2017	11	1	9.091%	0.44	0.44	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	melissa and doug	*	BROAD	09/04/2017	10/03/2017	3983	2	0.050%	1.65	0.82	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	toddler purse	*	BROAD	09/04/2017	10/23/2017	1009	1	0.099%	0.67	0.67	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	party supplies	*	BROAD	09/29/2017	10/03/2017	108	1	0.926%	1.00	1.00	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	boy costumes 4-6	*	BROAD	09/04/2017	10/02/2017	109	1	0.917%	0.77	0.77	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	dora figure	*	BROAD	09/04/2017	10/02/2017	38	1	2.632%	0.46	0.46	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	star wars games	*	BROAD	10/02/2017	10/20/2017	46	1	2.174%	0.93	0.93	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	b01mfbbflm	*	BROAD	09/04/2017	10/23/2017	940	2	0.213%	2.01	1.00	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	walkie talkies for boys	*	BROAD	09/13/2017	10/01/2017	8	1	12.500%	0.70	0.70	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	6 year old boy gift ideas	*	BROAD	09/04/2017	10/09/2017	104	2	1.923%	2.12	1.06	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	walkie talky	*	BROAD	09/10/2017	09/10/2017	1	1	100.000%	0.38	0.38	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	baby binoculars	*	BROAD	09/04/2017	10/23/2017	165	4	2.424%	1.33	0.33	8.32%	USD	1	15.99	25.000%	1	0	15.99	0.00
+Autoall	All	b01ms06o22	*	BROAD	09/21/2017	10/15/2017	12	1	8.333%	0.37	0.37	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	b01ln77mcm	*	BROAD	09/04/2017	10/03/2017	18	1	5.556%	0.56	0.56	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	thanksgiving toddler	*	BROAD	09/06/2017	10/03/2017	23	1	4.348%	1.23	1.23	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	science kits	*	BROAD	09/04/2017	10/03/2017	431	2	0.464%	1.77	0.89	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	b004z8z1uw	*	BROAD	09/17/2017	10/18/2017	94	1	1.064%	0.99	0.99	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	dora the explorer party supplies	*	BROAD	09/04/2017	10/23/2017	1615	1	0.062%	0.48	0.48	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	b0727sgh1n	*	BROAD	09/11/2017	10/15/2017	5	1	20.000%	1.27	1.27	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	batman watch	*	BROAD	09/04/2017	10/02/2017	143	1	0.699%	0.47	0.47	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	party supplies for science	*	BROAD	09/19/2017	10/04/2017	7	1	14.286%	0.39	0.39	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	toddler christmas gifts	*	BROAD	09/04/2017	10/03/2017	63	1	1.587%	0.70	0.70	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	littlest pet shops	*	BROAD	09/04/2017	09/05/2017	153	1	0.654%	0.59	0.59	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	cheap binoculars	*	BROAD	09/11/2017	10/02/2017	20	1	5.000%	0.22	0.22	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	play sets for kids outside	*	BROAD	09/04/2017	10/02/2017	20	1	5.000%	0.38	0.38	2.62%	USD	1	14.50	100.000%	0	1	0.00	14.50
+Autoall	All	science kit for 5 year old	*	BROAD	09/04/2017	10/23/2017	20	1	5.000%	0.69	0.69	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	baby computer	*	BROAD	09/04/2017	10/03/2017	188	1	0.532%	0.57	0.57	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	car costume toddler	*	BROAD	09/30/2017	10/02/2017	12	1	8.333%	0.93	0.93	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	binoculars cheap	*	BROAD	09/05/2017	10/03/2017	54	1	1.852%	0.40	0.40	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	stem kit	*	BROAD	09/07/2017	10/10/2017	10	1	10.000%	0.38	0.38	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	b00b1z6eps	*	BROAD	09/04/2017	10/18/2017	293	3	1.024%	1.25	0.42	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	toddler games	*	BROAD	09/05/2017	10/19/2017	45	1	2.222%	1.27	1.27	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	5 year old birthday gift	*	BROAD	09/30/2017	09/30/2017	2	1	50.000%	1.29	1.29	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	baby girl toys	*	BROAD	09/04/2017	10/03/2017	159	1	0.629%	1.31	1.31	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	lego star wars first order	*	BROAD	10/02/2017	10/23/2017	137	1	0.730%	0.82	0.82	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	toddler watch	*	BROAD	09/04/2017	10/21/2017	309	1	0.324%	1.18	1.18	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	star wars baby girl toys	*	BROAD	10/18/2017	10/18/2017	1	1	100.000%	0.31	0.31	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	cars 3 toys	*	BROAD	09/04/2017	10/13/2017	392	2	0.510%	1.40	0.70	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	best preschool presents	*	BROAD	10/01/2017	10/01/2017	1	1	100.000%	1.15	1.15	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	treehouse accessories	*	BROAD	09/04/2017	10/03/2017	738	3	0.407%	1.34	0.45	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	preschool binoculars	*	BROAD	09/08/2017	10/02/2017	21	1	4.762%	0.45	0.45	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	present boys 4	*	BROAD	10/01/2017	10/01/2017	1	1	100.000%	1.25	1.25	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	cars 3	*	BROAD	09/04/2017	10/03/2017	619	2	0.323%	1.18	0.59	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	science gifts for 4year old girls	*	BROAD	10/03/2017	10/03/2017	1	1	100.000%	1.25	1.25	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	three year old boy gifts	*	BROAD	09/04/2017	10/03/2017	56	1	1.786%	0.91	0.91	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	3 year old boy toys	*	BROAD	09/04/2017	10/03/2017	35	1	2.857%	1.01	1.01	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	stem 4	*	BROAD	10/15/2017	10/15/2017	3	1	33.333%	0.29	0.29	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	cheap stuff	*	BROAD	09/04/2017	10/03/2017	1224	1	0.082%	0.73	0.73	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	kids binoculars	*	BROAD	09/04/2017	09/21/2017	26	1	3.846%	0.69	0.69	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	b06xs47zs5	*	BROAD	09/21/2017	10/22/2017	11	1	9.091%	0.44	0.44	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	engineering kits for kids	*	BROAD	09/04/2017	10/03/2017	105	1	0.952%	1.24	1.24	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	gifts for 3 yr old boys	*	BROAD	10/01/2017	10/03/2017	18	1	5.556%	0.92	0.92	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	kids telescope	*	BROAD	09/04/2017	10/23/2017	251	2	0.797%	1.13	0.56	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	gifts for 4 yr old girls	*	BROAD	09/10/2017	10/04/2017	17	1	5.882%	1.21	1.21	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	watch for two year old	*	BROAD	09/13/2017	10/02/2017	4	1	25.000%	0.47	0.47	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	baby's first toy	*	BROAD	09/12/2017	09/12/2017	2	1	50.000%	0.65	0.65	6.51%	USD	1	9.99	100.000%	1	0	9.99	0.00
+Autoall	All	star wars gifts for boys	*	BROAD	10/02/2017	10/15/2017	2	1	50.000%	0.71	0.71	4.90%	USD	1	14.50	100.000%	1	0	14.50	0.00
+Autoall	All	2 year old boy	*	BROAD	09/19/2017	10/03/2017	12	1	8.333%	1.31	1.31	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	littlest pet shop	*	BROAD	09/04/2017	09/05/2017	4157	3	0.072%	2.18	0.73	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	childrens binoculars	*	BROAD	09/05/2017	09/21/2017	9	1	11.111%	0.13	0.13	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	gifts for a 2 year old girl	*	BROAD	09/04/2017	10/03/2017	17	1	5.882%	0.71	0.71	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	experiment kit for kids	*	BROAD	09/11/2017	10/02/2017	11	2	18.182%	1.49	0.74	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	toy binoculars	*	BROAD	09/04/2017	09/21/2017	67	1	1.493%	0.71	0.71	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	scopes for kids	*	BROAD	09/04/2017	09/14/2017	2	1	50.000%	0.64	0.64	6.41%	USD	1	9.99	100.000%	1	0	9.99	0.00
+Autoall	All	b00pj0opuc	*	BROAD	09/18/2017	10/21/2017	55	2	3.636%	1.19	0.59	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	cars 3 cars	*	BROAD	09/04/2017	10/02/2017	17	1	5.882%	0.71	0.71	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	birthday batman	*	BROAD	09/08/2017	09/08/2017	1	1	100.000%	0.49	0.49	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	travel kid	*	BROAD	09/30/2017	10/02/2017	48	1	2.083%	0.71	0.71	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	kid games	*	BROAD	09/30/2017	10/03/2017	7	1	14.286%	0.90	0.90	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	pretend binoculars	*	BROAD	09/18/2017	10/22/2017	17	1	5.882%	0.34	0.34	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	3year old by toys	*	BROAD	10/03/2017	10/08/2017	2	1	50.000%	0.90	0.90	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	spy gadgets	*	BROAD	09/04/2017	09/05/2017	75	1	1.333%	0.02	0.02	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	toddler explorer kit	*	BROAD	09/12/2017	09/30/2017	17	1	5.882%	0.37	0.37	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	b018zontoq	*	BROAD	09/10/2017	10/23/2017	481	2	0.416%	1.08	0.54	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	toys for twins	*	BROAD	09/16/2017	10/03/2017	9	1	11.111%	0.70	0.70	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	b00uus408u	*	BROAD	09/21/2017	10/04/2017	3	1	33.333%	0.26	0.26	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	telescope for kids	*	BROAD	09/04/2017	10/23/2017	434	1	0.230%	0.99	0.99	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	dora the explorer	*	BROAD	09/04/2017	10/23/2017	2112	7	0.331%	3.99	0.57	24.95%	USD	1	15.99	14.286%	1	0	15.99	0.00
+Autoall	All	medical play kit	*	BROAD	09/05/2017	10/01/2017	9	1	11.111%	0.38	0.38	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	stem preschool toys	*	BROAD	09/11/2017	09/11/2017	4	1	25.000%	0.02	0.02	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	batman figure	*	BROAD	09/04/2017	10/02/2017	1098	1	0.091%	0.94	0.94	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	gift for three year old	*	BROAD	09/06/2017	09/06/2017	1	1	100.000%	0.48	0.48	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	kids walkie talkies	*	BROAD	09/04/2017	10/03/2017	27	1	3.704%	0.88	0.88	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	baby walker	*	BROAD	10/02/2017	10/23/2017	289	1	0.346%	0.78	0.78	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	b0719ppbsm	*	BROAD	09/09/2017	10/02/2017	21	1	4.762%	0.99	0.99	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	girls red shirt	*	BROAD	09/30/2017	10/03/2017	61	1	1.639%	0.92	0.92	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	kids science kits	*	BROAD	09/04/2017	10/19/2017	107	1	0.935%	0.70	0.70	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	top gifts for 6 year old girls	*	BROAD	09/30/2017	10/03/2017	16	1	6.250%	1.24	1.24	7.75%	USD	1	15.99	100.000%	1	0	15.99	0.00
+Autoall	All	gifts for 3 yr old girls	*	BROAD	10/02/2017	10/02/2017	3	1	33.333%	0.93	0.93	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	batman toys	*	BROAD	09/04/2017	10/02/2017	881	1	0.114%	0.59	0.59	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	binoculars for adults	*	BROAD	09/04/2017	10/21/2017	79	1	1.266%	0.28	0.28	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	b071pbft1r	*	BROAD	09/17/2017	10/22/2017	11	1	9.091%	0.29	0.29	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	4yr old girl gifts	*	BROAD	09/17/2017	10/02/2017	15	1	6.667%	0.56	0.56	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	b003aqbbv8	*	BROAD	09/15/2017	10/23/2017	183	5	2.732%	2.46	0.49	8.48%	USD	1	29.00	20.000%	1	1	14.50	14.50
+Autoall	All	old glasses	*	BROAD	09/04/2017	09/22/2017	6	1	16.667%	0.54	0.54	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	toy toddler boy	*	BROAD	09/04/2017	09/04/2017	1	1	100.000%	0.52	0.52	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	science stuff	*	BROAD	09/04/2017	10/03/2017	59	1	1.695%	0.98	0.98	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	kids fireman costume	*	BROAD	09/04/2017	10/02/2017	94	1	1.064%	0.70	0.70	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	b0039wn9fe	*	BROAD	09/06/2017	10/18/2017	1487	1	0.067%	0.39	0.39	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	b00k0r5l5c	*	BROAD	09/04/2017	10/22/2017	297	2	0.673%	1.97	0.98	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	baseball toys	*	BROAD	09/04/2017	10/23/2017	268	1	0.373%	0.75	0.75	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	shark party	*	BROAD	09/04/2017	10/22/2017	88	1	1.136%	0.93	0.93	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	kids experiment kit	*	BROAD	09/04/2017	10/03/2017	313	1	0.319%	0.54	0.54	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	b00mchkaiq	*	BROAD	09/17/2017	10/16/2017	86	1	1.163%	0.29	0.29	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	first thanksgiving boy	*	BROAD	09/07/2017	10/22/2017	11	1	9.091%	0.69	0.69	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	educational toys for 2 year olds	*	BROAD	09/04/2017	10/03/2017	108	1	0.926%	0.02	0.02	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	b004gx2msk	*	BROAD	09/17/2017	10/23/2017	100	1	1.000%	1.27	1.27	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	2 year old girl toys	*	BROAD	09/04/2017	10/03/2017	87	1	1.149%	0.02	0.02	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	shark toy	*	BROAD	09/04/2017	10/22/2017	61	1	1.639%	0.68	0.68	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	stem kits	*	BROAD	09/04/2017	10/12/2017	97	1	1.031%	0.39	0.39	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	game and toy	*	BROAD	10/03/2017	10/03/2017	2	1	50.000%	1.01	1.01	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	experiments for kids	*	BROAD	09/04/2017	10/20/2017	229	1	0.437%	1.05	1.05	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	first binoculars	*	BROAD	09/11/2017	10/10/2017	27	1	3.704%	0.28	0.28	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	5 yr old toys for boys	*	BROAD	09/10/2017	09/10/2017	3	1	33.333%	0.02	0.02	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	kids engineering kits	*	BROAD	09/04/2017	10/03/2017	321	1	0.312%	0.99	0.99	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	shark gifts for boys	*	BROAD	09/17/2017	10/01/2017	5	1	20.000%	0.73	0.73	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	baby watches	*	BROAD	09/04/2017	10/06/2017	125	1	0.800%	0.59	0.59	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	toddler fireman costume	*	BROAD	09/04/2017	10/02/2017	309	1	0.324%	0.39	0.39	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	baseball game	*	BROAD	09/04/2017	10/23/2017	132	1	0.758%	0.13	0.13	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	girls binoculars	*	BROAD	09/11/2017	10/03/2017	5	1	20.000%	1.28	1.28	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	b01c41abme	*	BROAD	09/17/2017	10/15/2017	7	1	14.286%	0.72	0.72	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	3 year old boy birthday gifts	*	BROAD	09/04/2017	10/10/2017	11	1	9.091%	1.30	1.30	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Autoall	All	dog party	*	BROAD	09/04/2017	10/03/2017	84	1	1.190%	0.31	0.31	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	batman toy	*	BROAD	09/01/2017	09/03/2017	18	1	5.556%	0.76	0.76	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	watch for boys age 5	*	BROAD	08/25/2017	08/25/2017	1	1	100.000%	0.62	0.62	4.77%	USD	1	12.99	100.000%	1	0	12.99	0.00
+AutoSmall	All	babys toys	*	BROAD	08/27/2017	09/01/2017	3	1	33.333%	0.87	0.87	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	b01n1f35xn	*	BROAD	09/02/2017	09/04/2017	6	1	16.667%	0.68	0.68	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	melissa and doug	*	BROAD	09/01/2017	09/04/2017	224	1	0.446%	0.54	0.54	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	3 year old girl toys educational	*	BROAD	09/02/2017	09/02/2017	1	1	100.000%	0.79	0.79	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	science kits	*	BROAD	09/01/2017	09/03/2017	42	1	2.381%	0.02	0.02	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	little girl purses	*	BROAD	08/25/2017	09/04/2017	286	2	0.699%	1.48	0.74	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	boys christmas shirt	*	BROAD	08/25/2017	09/03/2017	15	1	6.667%	0.70	0.70	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	kids explorer kit	*	BROAD	08/25/2017	09/04/2017	102	1	0.980%	0.88	0.88	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	costumes for boys 5-7	*	BROAD	09/03/2017	09/03/2017	2	1	50.000%	1.00	1.00	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	toy dogs	*	BROAD	08/25/2017	09/03/2017	32	1	3.125%	0.54	0.54	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	b01beczyty	*	BROAD	08/25/2017	09/04/2017	46	1	2.174%	0.77	0.77	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	b00270fd6c	*	BROAD	08/25/2017	09/03/2017	21	1	4.762%	0.79	0.79	5.45%	USD	1	14.50	100.000%	0	1	0.00	14.50
+AutoSmall	All	b01c622vdi	*	BROAD	08/25/2017	09/03/2017	29	1	3.448%	0.74	0.74	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	batman figures	*	BROAD	09/01/2017	09/04/2017	167	1	0.599%	0.70	0.70	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	toddler watch	*	BROAD	08/25/2017	09/04/2017	101	1	0.990%	0.69	0.69	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	2 year old	*	BROAD	08/25/2017	09/03/2017	13	1	7.692%	0.80	0.80	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	cars 3 toys	*	BROAD	08/25/2017	09/04/2017	122	1	0.820%	0.55	0.55	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	engineering toys	*	BROAD	08/25/2017	09/04/2017	111	1	0.901%	0.78	0.78	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	batman binoculars	*	BROAD	09/01/2017	09/03/2017	9	1	11.111%	0.40	0.40	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	littlest pet shop	*	BROAD	09/01/2017	09/04/2017	13575	2	0.015%	1.58	0.79	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	watch cars blue- will	*	BROAD	09/01/2017	09/04/2017	6	1	16.667%	0.74	0.74	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	toy binoculars	*	BROAD	08/25/2017	09/04/2017	83	1	1.205%	0.99	0.99	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	best toys for 4 yr old	*	BROAD	09/03/2017	09/03/2017	1	1	100.000%	0.97	0.97	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	toddler girl purse	*	BROAD	08/25/2017	09/04/2017	98	1	1.020%	0.79	0.79	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	engineering for kids	*	BROAD	08/25/2017	09/04/2017	51	1	1.961%	0.50	0.50	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	baby boy gifts	*	BROAD	08/27/2017	09/03/2017	45	1	2.222%	0.71	0.71	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	b06xdp2pcj	*	BROAD	08/25/2017	09/03/2017	23	2	8.696%	1.53	0.77	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	gift ideas for 6 year old girls	*	BROAD	09/01/2017	09/02/2017	5	1	20.000%	0.55	0.55	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	b018zontoq	*	BROAD	08/25/2017	09/04/2017	712	1	0.140%	0.85	0.85	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	5 year old girl gifts	*	BROAD	08/27/2017	09/03/2017	33	1	3.030%	0.78	0.78	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	telescope for kids	*	BROAD	08/25/2017	09/04/2017	127	1	0.787%	0.85	0.85	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	walkie talkies	*	BROAD	09/01/2017	09/03/2017	7	1	14.286%	0.71	0.71	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	dora the explorer	*	BROAD	09/01/2017	09/04/2017	592	2	0.338%	1.58	0.79	10.90%	USD	1	14.50	50.000%	1	0	14.50	0.00
+AutoSmall	All	play watches for girls	*	BROAD	08/27/2017	08/27/2017	6	1	16.667%	0.91	0.91	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	spy glasses	*	BROAD	08/25/2017	09/04/2017	242	1	0.413%	0.79	0.79	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	boys gifts	*	BROAD	08/27/2017	09/03/2017	7	1	14.286%	0.96	0.96	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	b071pbft1r	*	BROAD	08/25/2017	09/04/2017	22	1	4.545%	0.54	0.54	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	science gadgets	*	BROAD	09/01/2017	09/04/2017	62	1	1.613%	0.71	0.71	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	best toys for two year olds	*	BROAD	09/02/2017	09/02/2017	1	1	100.000%	0.45	0.45	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	b0039wn9fe	*	BROAD	08/25/2017	09/04/2017	1176	1	0.085%	0.90	0.90	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	first birthday boy	*	BROAD	08/25/2017	09/03/2017	124	1	0.806%	0.71	0.71	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	b06xw7psfv	*	BROAD	08/25/2017	09/04/2017	29	1	3.448%	0.77	0.77	5.93%	USD	1	12.99	100.000%	1	0	12.99	0.00
+AutoSmall	All	b01msnmmxq	*	BROAD	08/25/2017	08/27/2017	7	1	14.286%	0.76	0.76	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	really cheap stuff	*	BROAD	09/01/2017	09/04/2017	39	1	2.564%	0.44	0.44	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	gift baby boy	*	BROAD	08/25/2017	08/28/2017	633	1	0.158%	0.60	0.60	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	toddler baseball	*	BROAD	09/01/2017	09/04/2017	41	2	4.878%	1.08	0.54	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	b0713sb2vc	*	BROAD	08/25/2017	09/04/2017	38	1	2.632%	0.79	0.79	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+AutoSmall	All	watch dogs	*	BROAD	08/25/2017	09/04/2017	256	2	0.781%	1.18	0.59	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	pretend toys boys	pretend toys for boys	BROAD	09/07/2017	09/07/2017	1	1	100.000%	0.68	0.68	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	birthday present for boys	birthday presents for boys	BROAD	08/25/2017	09/18/2017	11	1	9.091%	0.59	0.59	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	play binoculars for kids	kids play binoculars	BROAD	09/03/2017	09/17/2017	6	1	16.667%	1.23	1.23	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	pretend play for toddlers	pretend play toddler	BROAD	08/25/2017	09/22/2017	93	2	2.151%	2.03	1.02	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	toddler peter pretend play shoes	pretend play toddler	BROAD	09/12/2017	09/17/2017	165	1	0.606%	0.54	0.54	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	toddlers binoculars toy	toddler binoculars	BROAD	08/25/2017	08/25/2017	1	1	100.000%	0.06	0.06	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	binoculars for toddlers	toddler binoculars	BROAD	08/25/2017	09/21/2017	99	1	1.010%	0.16	0.16	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	toddler binoculars	toddler binoculars	BROAD	08/25/2017	09/22/2017	1066	2	0.188%	1.27	0.64	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	small toddler binoculars	toddler binoculars	BROAD	09/20/2017	09/20/2017	2	1	50.000%	0.89	0.89	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	toddlers binoculars	toddler binoculars	BROAD	09/12/2017	09/16/2017	6	1	16.667%	0.11	0.11	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	boys binoculars	binoculars for boys	BROAD	08/25/2017	09/22/2017	32	1	3.125%	0.79	0.79	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	kids binoculars boys	kids binoculars boys	BROAD	08/27/2017	09/21/2017	127	1	0.787%	0.93	0.93	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	kids binoculars toy	toy binoculars for kids	BROAD	08/27/2017	09/16/2017	3	1	33.333%	1.03	1.03	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	children's toy binoculars	toy binoculars	BROAD	09/02/2017	09/21/2017	4	1	25.000%	1.01	1.01	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	large toy binoculars	toy binoculars	BROAD	09/17/2017	09/17/2017	1	1	100.000%	0.58	0.58	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	toy binoculars	toy binoculars	BROAD	08/25/2017	09/21/2017	376	5	1.330%	5.34	1.07	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	binocular set for kids	binoculars for kids	BROAD	09/15/2017	09/21/2017	25	1	4.000%	0.77	0.77	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	binocular for kids	binoculars for kids	BROAD	09/01/2017	09/21/2017	78	1	1.282%	0.80	0.80	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Red	Ad Group 1	kids binoculars party favors	binoculars for kids	BROAD	09/01/2017	09/21/2017	544	2	0.368%	1.39	0.70	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Popular 100	Binocs	binoculars for kids	binoculars for kids	PHRASE	09/23/2017	09/28/2017	114	2	1.754%	1.54	0.77	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Popular 100	Binocs	kids binoculars 10x	kids binoculars	PHRASE	10/01/2017	10/01/2017	3	1	33.333%	1.42	1.42	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Popular 100	Binocs	kids binoculars	kids binoculars	PHRASE	09/23/2017	10/23/2017	1367	4	0.293%	5.61	1.40	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Popular 100	Binocs	kid binoculars	kids binoculars	PHRASE	09/23/2017	10/23/2017	342	1	0.292%	1.43	1.43	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Popular 100	Binocs	binoculars toy	binoculars toy	PHRASE	09/23/2017	10/23/2017	303	1	0.330%	0.70	0.70	5.39%	USD	1	12.99	100.000%	1	0	12.99	0.00
+Popular 100	Binocs	binoculars toys set	binoculars toy	PHRASE	10/11/2017	10/20/2017	6	1	16.667%	0.91	0.91	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Popular 100	Binocs	binoculars for kids	binocular kids	PHRASE	09/28/2017	10/23/2017	4498	15	0.333%	28.78	1.92	66.16%	USD	3	43.50	20.000%	3	0	43.50	0.00
+Popular 100	Binocs	childrens toy binoculars	toys binoculars	PHRASE	09/28/2017	10/22/2017	48	1	2.083%	1.27	1.27	9.78%	USD	1	12.99	100.000%	0	1	0.00	12.99
+Popular 100	Binocs	cheap toy binoculars	toys binoculars	PHRASE	10/12/2017	10/20/2017	9	1	11.111%	1.99	1.99	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Popular 100	Binocs	toy binoculars	toys binoculars	PHRASE	09/28/2017	10/23/2017	5628	25	0.444%	40.33	1.61	99.63%	USD	3	40.48	12.000%	3	0	40.48	0.00
+Popular 100	Binocs	toy binoculars party favors	toys binoculars	PHRASE	09/28/2017	10/20/2017	252	2	0.794%	3.29	1.65	12.66%	USD	1	25.98	50.000%	1	1	12.99	12.99
+Popular 100	Binocs	stem toy binoculars	toys binoculars	PHRASE	10/10/2017	10/17/2017	6	1	16.667%	1.59	1.59	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Popular 100	Binocs	toy binocular	toys binoculars	PHRASE	09/28/2017	10/23/2017	80	2	2.500%	3.15	1.57	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Popular 100	Binocs	boys toy binocular set	toy binoculars set	PHRASE	09/27/2017	09/27/2017	1	1	100.000%	0.58	0.58	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Popular 100	Binocs	binoculars toddler	binocular toddler	PHRASE	09/28/2017	10/23/2017	21	2	9.524%	1.40	0.70	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Popular 100	Binocs	binoculars for toddlers	binocular toddler	PHRASE	09/28/2017	10/23/2017	444	10	2.252%	4.44	0.44	16.15%	USD	2	27.49	20.000%	2	0	27.49	0.00
+Popular 100	Binocs	binoculars for toddler	binocular toddler	PHRASE	10/02/2017	10/23/2017	15	2	13.333%	1.18	0.59	9.08%	USD	1	12.99	50.000%	1	0	12.99	0.00
+Popular 100	Binocs	kids toy binoculars green	kid toy binoculars	PHRASE	10/16/2017	10/16/2017	4	1	25.000%	0.81	0.81	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Popular 100	Binocs	binoculars for kids red	binoculars for kids red	PHRASE	09/23/2017	10/23/2017	17	1	5.882%	1.78	1.78	6.85%	USD	1	25.98	100.000%	0	2	0.00	25.98
+Popular 100	Binocs	kids binoculars boys	kids binoculars boys	PHRASE	09/24/2017	10/23/2017	303	2	0.660%	2.91	1.46	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Popular 100	Binocs	toddler binoculars	toddlers binoculars	PHRASE	09/23/2017	10/23/2017	350	13	3.714%	5.68	0.44	43.73%	USD	1	12.99	7.692%	1	0	12.99	0.00
+Popular 100	Binocs	toddlers binoculars	toddlers binoculars	PHRASE	09/25/2017	10/23/2017	13	1	7.692%	0.37	0.37	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Toddler toys	Binocs	gadget toys for toddlers	toy toddler	BROAD	10/17/2017	10/18/2017	4	1	25.000%	0.28	0.28	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Toys	binocs	power battle watch car toys	toys	BROAD	10/11/2017	10/23/2017	4	1	25.000%	0.23	0.23	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Toys	binocs	special needs toys	toys	BROAD	10/12/2017	10/23/2017	10	1	10.000%	0.30	0.30	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Toys	binocs	toy story party supplies	toys	BROAD	10/11/2017	10/23/2017	47	1	2.128%	0.29	0.29	2.23%	USD	1	12.99	100.000%	1	0	12.99	0.00
+Toys	binocs	case ih toys	toys	BROAD	10/10/2017	10/23/2017	52	1	1.923%	0.12	0.12	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Toys	binocs	spin toy 4 yo	toys	BROAD	10/18/2017	10/18/2017	4	1	25.000%	0.12	0.12	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Toys	binocs	duplo star wars toys	toys	BROAD	10/11/2017	10/11/2017	2	1	50.000%	0.18	0.18	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Toys	binocs	little girl adult toys	girl toys	BROAD	10/22/2017	10/22/2017	2	2	100.000%	0.18	0.09	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Toys	binocs	baby girl 1st christmas toys	girl toys	BROAD	10/13/2017	10/14/2017	1	1	100.000%	0.23	0.23	1.77%	USD	1	12.99	100.000%	1	0	12.99	0.00
+Toys	binocs	top toys for 7 year old boys	boy toys	BROAD	10/21/2017	10/21/2017	1	1	100.000%	0.60	0.60	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Toys	binocs	2years old boy toys	boy toys	BROAD	10/18/2017	10/18/2017	3	1	33.333%	0.37	0.37	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Toys	binocs	educational toys for 4 year old boys	boy toys	BROAD	10/22/2017	10/22/2017	4	1	25.000%	0.53	0.53	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Toys	binocs	educational toys for 4 5 year old boys	boy toys	BROAD	10/11/2017	10/18/2017	2	1	50.000%	0.54	0.54	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Toys	binocs	boys toys age 6-8	boy toys	BROAD	10/10/2017	10/20/2017	10	1	10.000%	0.50	0.50	3.85%	USD	1	12.99	100.000%	1	0	12.99	0.00
+Toys	binocs	toys for 6 year old boys	boy toys	BROAD	10/11/2017	10/23/2017	23	1	4.348%	0.45	0.45	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
+Toys	binocs	boy scout toys	boy toys	BROAD	10/12/2017	10/23/2017	7	1	14.286%	0.10	0.10	0.77%	USD	1	12.99	100.000%	0	1	0.00	12.99
+Toys	binocs	outside digging toys	outside toys	BROAD	10/23/2017	10/23/2017	1	1	100.000%	0.15	0.15	0.00%	USD	0	0.00	0.000%	0	0	0.00	0.00
