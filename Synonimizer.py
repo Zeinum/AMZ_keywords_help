@@ -11,6 +11,6 @@ def get_synonims(word):
     resp = [r[2] for r in resp if len(r)==3]
     return resp
 
-syns = get_synonims("travel")
+syns = get_synonims("toys")
 for s in syns:
     print(s, "", mtranslate.translate(s, to_language="ru") )
